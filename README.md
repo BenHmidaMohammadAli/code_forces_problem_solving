@@ -62,15 +62,6 @@ To run any solution locally on your machine:
 
 ---
 
-### 👨‍💻 Contributions
-
-This repository represents my personal learning and growth. However, contributions are welcome! If you'd like to contribute:
-1. Fork the repository.
-2. Add or improve a solution.
-3. Submit a Pull Request.
-
----
-
 Happy Coding! 🚀
 
 ---
