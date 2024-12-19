@@ -2,25 +2,21 @@
 
 This repository contains my solutions to problems from the [Codeforces](https://codeforces.com/) competitive programming platform. Each solution is implemented in **Python 3** and organized in a simple format for easy navigation.
 
+This repository is part of a personal challenge I created for myself, aiming to progress from zero to hero in competitive programming.
+
 ---
 
 ### 📝 Repository Structure
 
-Each file in this repository corresponds to a **single problem** from Codeforces and is named using the **problem ID** as provided on the website.
+Each file in this repository corresponds to a **single problem** from Codeforces and is named using the **problem level** and **problem name** as provided on the website.
 
-The structure is as follows:
+The structure is as follows (+ **Example**):
 ```
 .
 ├── README.md      # This file
-├── <problem_id_1>.py   # Solution for problem with ID 'problem_id_1'
-├── <problem_id_2>.py   # Solution for problem with ID 'problem_id_2'
+├── <A - Vanya and Fence>.py  # Solution for problem 'Vanya and Fence' at level A
+├── <B - Xenia and Ringroad>.py  # Solution for problem 'Xenia and Ringroad' at level B
 └── ...
-```
-
-**Example**:
-If a problem ID on Codeforces is `123A`, then the solution will be saved as:
-```
-123A.py
 ```
 
 ---
